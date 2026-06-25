@@ -2,6 +2,7 @@
 
 <img width="1794" height="1025" alt="Screenshot_25-6-2026_35622_product-monitor test" src="https://github.com/user-attachments/assets/f3a1a6ce-6a9d-4dbb-be37-07c7e622e6dc" />
 
+## This project is no longer maintained but was originally made for auditing purposes at Soul Foods Group as an intermediary system when the quality product management system failed
 
 A Laravel 11 web application for tracking food product batches throughout the day — logging cook times, expiry countdowns, sales, and waste for kitchen operations.
 
